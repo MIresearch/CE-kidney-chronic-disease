@@ -52,7 +52,12 @@ We use the <b><a href="https://miresearch.github.io/Community-Explorer-17-profil
 <center><iframe src="https://public.tableau.com/views/CKD220316/Dashboard1?:showVizHome=no&:embed=true" width="100%" height="700" frameborder="0"></iframe></center>
 
 <br>
-<b>These profiles can be summarized as follows:</b>
+  <b>List of Health Conditions</b><br>
+•	the % of adults who reported "yes" among those who reported if they had been told by a healthcare professional that they had the condition indicated, weighted by the age-makeup of each county for Coronary Heart Disease, Chronic Kidney Disease, and Diagnosed Diabetes
+
+<br>
+
+<b>The 17 profiles can be summarized as follows:</b>
 <br>
 <br><b>Mainstream America</B> captures 74% of the US population and encompasses Urban Core counties and Suburban and Small Metro counties (819 counties).
 <br><b>1 =></b> The most ethnically diverse profile with the highest income level. It is a highly educated cohort that resides in large metro areas 26% of the US population)
@@ -83,7 +88,7 @@ We use the <b><a href="https://miresearch.github.io/Community-Explorer-17-profil
 <br><br>
 <Bh>
 <b>Data</b><br>
-Census Bureau's American Community Survey. <br>
+Census Bureau's American Community Survey, CDC-BRFSS <br>
 <br> <br>
 
 
