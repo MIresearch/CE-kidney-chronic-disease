@@ -45,7 +45,7 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 
 <H2><b> The Community Explorer and the Chronic Kidney Disease </b> </H2> <Hr>
 
-We use the <b><a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"> Community Explorer</b> to investigates US health disparities. More specifically, we look at the health profile of the 17 populations identified using machine learning techniques on 751 variables (behavioral, demographic, economic, and social factors) for 3142 counties.  
+We use the <b><a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"> Community Explorer</a></b> to investigates US health disparities. More specifically, we look at the health profile of the 17 populations identified using machine learning techniques on 751 variables (behavioral, demographic, economic, and social factors) for 3142 counties.  
 <br>
 <H2>Interactive Map </H2>
 
