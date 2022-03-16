@@ -9,25 +9,23 @@
   gtag('config', 'UA-166686264-2');
 </script>
 
-  <!-- Default Statcounter code for CE 17
-https://miresearch.github.io/Community-Explorer-17-profiles/
--->
+  <!-- Default Statcounter code for CE and CKD
+https://miresearch.github.io/CE-kidney-chronic-disease/ -->
 <script type="text/javascript">
-var sc_project=12724919; 
+var sc_project=12731770; 
 var sc_invisible=1; 
-var sc_security="161ec0d3"; 
+var sc_security="25e2c88f"; 
 </script>
 <script type="text/javascript"
 src="https://www.statcounter.com/counter/counter.js"
 async></script>
-<noscript><div class="statcounter"><a title="Web Analytics"
-href="https://statcounter.com/" target="_blank"><img
-class="statcounter"
-src="https://c.statcounter.com/12724919/0/161ec0d3/1/"
-alt="Web Analytics"
+<noscript><div class="statcounter"><a title="Web Analytics
+Made Easy - Statcounter" href="https://statcounter.com/"
+target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/12731770/0/25e2c88f/1/"
+alt="Web Analytics Made Easy - Statcounter"
 referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 <!-- End of Statcounter Code -->
-  
 
 <meta name="twitter:title" content="Community Explorer">
 <meta name="twitter:description" content="The Community Explorer sorts 751 behavioral, demographic, economic, and social factors across 3,192 US counties into 17 community profiles.">
