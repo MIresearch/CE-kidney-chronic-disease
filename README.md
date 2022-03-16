@@ -43,9 +43,9 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 
 <H1><b>Milken Institute Research Department </b></H1><Hr>
 
-<H2><b> The Community Explorer (17 profiles based on 751 factors) and Kidney Chronic Disease **beta version**</b> </H2> <Hr>
+<H2><b> The Community Explorer and the Chronic Kidney Disease </b> </H2> <Hr>
 
-We use the <b><a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"> Community Explorer</b> to investigates US health disparities. 
+We use the <b><a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"> Community Explorer</b> to investigates US health disparities. More specifically, we look at the health profile of the 17 populations identified using machine learning techniques on 751 variables (behavioral, demographic, economic, and social factors) for 3142 counties.  
 <br>
 <H2>Interactive Map </H2>
 
