@@ -49,7 +49,7 @@ We use the <b><a href="https://miresearch.github.io/Community-Explorer-17-profil
 <br>
 <H2>Interactive Map </H2>
 
-XX<center><iframe src="https://public.tableau.com/views/CE_map_tableau_beta/Dashboard1?:showVizHome=no&:embed=true" width="100%" height="700" frameborder="0"></iframe></center>
+<center><iframe src="https://public.tableau.com/views/CKD220316/Dashboard1?:showVizHome=no&:embed=true" width="100%" height="700" frameborder="0"></iframe></center>
 
 <br>
 <b>These profiles can be summarized as follows:</b>
