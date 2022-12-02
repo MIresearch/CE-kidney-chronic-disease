@@ -49,7 +49,6 @@ We use the <b><a href="https://miresearch.github.io/Community-Explorer-17-profil
 <br>
 <H2>Interactive Map </H2>
 
-<center><iframe src="https://public.tableau.com/views/CKD220316/Dashboard1?:showVizHome=no&:embed=true" width="100%" height="700" frameborder="0"></iframe></center>
 <center><iframe src="https://public.tableau.com/views/20221201DashboardCKDPoverty/HomePage?:showVizHome=no&:embed=true" width="100%" height="700" frameborder="0"></iframe></center>
 <br>
   <b>List of Health Conditions</b><br>
