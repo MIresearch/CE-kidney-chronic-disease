@@ -47,10 +47,12 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 
 We use the <b><a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"> Community Explorer</a></b> to investigates US health disparities. The community Explorer synthetizes the infortmation of 751 variables across 3142 counties from the Census Bureau’s American Community Survey using machine learning methods, into 17 communities. Each one of these communities has a distinctive profile that combines demographic, economic, and many other behavior determinants while not being geographically bounded.    
 <br>
-<H2>Interactive Map </H2>
+<H2>Interactive Map based on MI Report</H2>
 
 <center><iframe src="https://public.tableau.com/views/20221201DashboardCKDPoverty/HomePage?:showVizHome=no&:embed=true" width="100%" height="700" frameborder="0"></iframe></center>
 <br>
+<H2>Interactive Map using the Communtiy Explorer</H2>
+<center><iframe src="https://public.tableau.com/views/CKD220316/Dashboard1?:showVizHome=no&:embed=true" width="100%" height="700" frameborder="0"></iframe></center>
   <b>List of Health Conditions</b><br>
 •	the % of adults who reported "yes" among those who reported if they had been told by a healthcare professional that they had the condition indicated, weighted by the age-makeup of each county for Coronary Heart Disease, Chronic Kidney Disease, and Diagnosed Diabetes
 
